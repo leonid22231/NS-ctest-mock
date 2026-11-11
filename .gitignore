@@ -1,0 +1,10 @@
+/build/
+/atmosphere/
+*.o
+*.d
+*.elf
+*.nso
+*.npdm
+*.nsp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+# Redirect Nintendo connection test to local mock (127.0.0.1:80)
+# Place under atmosphere/hosts/ (emummc.txt / emummc_<id>.txt)
+127.0.0.1 *ctest.cdn.nintendo.net
+127.0.0.1 *ctest-dl-lp1.cdn.nintendo.net
+127.0.0.1 *ctest-ul-lp1.cdn.nintendo.net
+127.0.0.1 *conntest.nintendowifi.net
+127.0.0.1 *ctest.srv.nintendo.net
