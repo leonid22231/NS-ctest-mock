@@ -5,6 +5,5 @@
 *.elf
 *.nso
 *.npdm
-*.nsp
 .DS_Store
 Thumbs.db
